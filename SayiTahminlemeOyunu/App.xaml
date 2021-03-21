@@ -1,0 +1,10 @@
+﻿  <!--Uygulama açıldığı zaman ilk hangi pencerenin açılacağı App.xaml dosyasından belirleniyor. -->
+    <Application x:Class="SayiTahminlemeOyunu.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SayiTahminlemeOyunu"
+             StartupUri="AnaPencere.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
