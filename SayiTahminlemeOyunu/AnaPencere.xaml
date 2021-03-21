@@ -62,8 +62,7 @@
             Width="150"
             Height="25"
             Content="Temizle" 
-            Margin="0,10,10,0"
-            
+            Margin="0,10,10,0"           
             Click="BtnTemizle_Click" />
 
 
